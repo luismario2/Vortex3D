@@ -1,0 +1,6 @@
+{
+  "name": "VORTEX: Cyber Operative 3D",
+  "description": "Juego de disparos táctico 3D en primera persona con lobby interactivo, armería, efectos visuales de alta gama, animaciones y configuración completa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
